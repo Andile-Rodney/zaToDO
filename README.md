@@ -1,2 +1,2 @@
 # zaToDO
-Just a basic to do list practice, first attempt
+Just a basic to do list, first attempt
